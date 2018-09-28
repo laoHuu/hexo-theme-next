@@ -479,10 +479,10 @@ baidu_analytics: e3fca4e975f1459a1fd28d3dbf885bbc
 
 # Disqus
 disqus:
-  enable: false
-  shortname:
+  enable: true
+  shortname: Lao Hu
   count: true
-  lazyload: false
+  lazyload: true
 
 # changyan
 changyan:
